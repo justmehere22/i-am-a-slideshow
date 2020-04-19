@@ -1,0 +1,31 @@
+html {
+    font-family: sans-serif;
+  }
+  
+  body {
+    background: #ffffff;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin: 1rem 0.5rem;
+  }
+  
+  button {
+    font: inherit;
+    background: #ff7f16;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 0.5rem;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  button:active {
+    background: #e07015;
+  }
